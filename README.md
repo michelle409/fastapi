@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Community Posts API
 
 An independently implemented learning project based on the requirements explored in the FastAPI course repository by Sanjeev Thiyagarajan. The project provides a JWT-protected posts API with user registration, post CRUD, voting, SQLAlchemy persistence, Alembic migrations and automated tests. The course repository is the learning reference; this codebase is a separate implementation.
