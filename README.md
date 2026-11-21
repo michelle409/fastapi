@@ -81,8 +81,4 @@ pytest -q
 - Passwords are hashed using Argon2.
 - CORS origins should be restricted to the frontend domains you control.
 
-## Learning reference
-Original course repository: https://github.com/Sanjeev-Thiyagarajan/fastapi-course
-=======
-# fastapi
->>>>>>> a582cdb59e386596777d33e1d36b7bb6d1f0062d
+
